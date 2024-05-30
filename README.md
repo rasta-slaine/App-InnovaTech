@@ -3,7 +3,7 @@
 
 
 ## SpotCode
-Esse é uma aplicação é um App, para a InnovateTech com a solução para visualização das informações dos alunos de forma intuitiva em uma aplicação móvel.
+Esse  aplicação é um App, para a InnovateTech com a solução para visualização das informações dos alunos de forma intuitiva em uma aplicação móvel.
 
 
 ## Technology 
@@ -16,10 +16,6 @@ As tecnologias usadas nesse projeto.
 * tanstack/react-query version 5.39.0
 * typescript version 5.3.3
 
-## Services Used
-
-* Github
-
 ## Getting started
 
 *Para instalar e executar o projeto localmente, siga estas etapas:
@@ -29,70 +25,14 @@ As tecnologias usadas nesse projeto.
    git clone https://github.com/seu-usuario/contact2sale-app.git
    cd contact2sale-app
    
+   
 * Instale as dependências
+  ```bash
    npm install
-  
+
 * To run the project.
+   ```bash
   - npx expo start
-
-## How to use
-
-### 1 - When you access the project, you will see this initial page.
-
-![Homepage image](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/17.png)
-
-### 2 - You can Login in the system if you have an account registered.
-
-![Login](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/16.png)
-
-### 3 - Or simply create your account.
-
-![Sign up](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/15.png)
-
-### 4 - This is the Dashboard!
-
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/14.png)
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/13.png)
-
-### 5 - You can see more of an album clicking above it.
-
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/12.png)
-![Dashboard](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/11.png)
-
-### 6 - You can also search a music, artist or an album accord of it's category!!
-
-![Search tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/10.png)
-
-### 7 - Clicking on the category, will return:
-
-  #### 7.1 - It's albums registered.
-
-![Search Albums tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/9.png)
-
-  #### 7.2 - It's artists.
-
-![Search Artists tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/8.png)
-
-  #### 7.3 - It's musics.
-
-![Search Musics tab](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/7.png)
-
-### 8 - Clicking on the artist, you can see it's perfil like the image above.
-
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/6.png)
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/5.png)
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/4.png)
-
-### 9 - You can access the favorite's tab too like:
-  #### 9.1 - Favorite Albums.
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/3.png)
-
-  #### 9.2 - Favorite Artists.
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/2.png)
-
-  #### 9.3 - Favorite Musics.
-![Artist show](https://github.com/Lucasdfg07/Spotify_clone/blob/master/public/readme_photos/1.png)
-
 
 ## Features
 
@@ -104,20 +44,67 @@ As features do aplicativo são:
  - Pagina de detalhes.
 
 
+
+## Como usar : )
+
+
+
+### 1 - Quando você abrir o App, Você vera a tela de Loading com a Logo
+
+![Homepage image](https://github.com/rasta-slaine/App-InnovaTech/blob/main/public/Readmi/img-0.jpg)
+
+### 2 - E após o loading, você vera a tela inicial.
+
+![Login](https://github.com/rasta-slaine/App-InnovaTech/blob/main/public/Readmi/img-1.jpg)
+
+### 3 - Pesquisando - pelo nome 
+
+![Sign up](https://github.com/rasta-slaine/App-InnovaTech/blob/main/public/Readmi/img-2.jpg)
+
+### 4 - Os filtros
+
+![Dashboard](https://github.com/rasta-slaine/App-InnovaTech/blob/main/public/Readmi/img-3.jpg)
+
+   #### 4.1 - Filtro : filtrando "homem"
+
+![Dashboard](https://github.com/rasta-slaine/App-InnovaTech/blob/main/public/Readmi/img-5.jpg)
+
+
+  #### 4.2 - Filtro : filtrando "mulher"
+
+![Search tab](https://github.com/rasta-slaine/App-InnovaTech/blob/main/public/Readmi/img-6.jpg)
+
+
+  #### 4.3 - Filtro : Ordenando pelo nome
+
+![Search tab](https://github.com/rasta-slaine/App-InnovaTech/blob/main/public/Readmi/img-7.jpg)
+
+
+
+### 8 - Modal de detalhes do Usuario
+
+![Artist show](https://github.com/rasta-slaine/App-InnovaTech/blob/main/public/Readmi/img-8.jpg)
+
+
+### 9 - Carregando mais resultados
+  #### 9.1 - Clicando no botão : "Carregar mais".
+![Artist show](https://github.com/rasta-slaine/App-InnovaTech/blob/main/public/Readmi/img-9.jpg)
+
+  #### 9.2 - Texto alterando para "Carregando...".
+![Artist show](https://github.com/rasta-slaine/App-InnovaTech/blob/main/public/Readmi/img-10.jpg)
+
+  #### 9.3 - Resultando + 20 usuarios adicinados .
+![Artist show](https://github.com/rasta-slaine/App-InnovaTech/blob/main/public/Readmi/img-11.jpg)
+
+
+
 ## Contato
-  - Repository: https://github.com/Lucasdfg07/Spotify_clone
-    - In case of sensitive bugs like security vulnerabilities, please contact
-      Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
-      to improve the security and privacy of this project!
+ ### Email  
+   * Quiknathan7@gmail.com
+         
 
-  ## Versioning
-
-  1.0.0.0
-
-
-  ## Authors
+  ## Autor
 
   * **Nathan Das Chagas Santos** 
 
-  Please follow github and join us!
-  Thanks to visiting me and good coding!
+
