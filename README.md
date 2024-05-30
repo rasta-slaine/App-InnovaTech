@@ -1,48 +1,39 @@
 
-![Logo of the project](https://github.com/Lucasdfg07/Spotify_clone/blob/master/app/javascript/assets/images/logo.png)
+![Logo of the project](https://file.notion.so/f/f/8aa2930a-c40b-4a49-98ac-e937d0bc88f2/57c73100-8073-4424-9683-cbcd4089e16a/_d7e73069-648f-4f52-95d2-b7ab4f175cfe.jpeg?id=5d185451-392d-4ee6-9da7-1572cc28a5fd&table=block&spaceId=8aa2930a-c40b-4a49-98ac-e937d0bc88f2&expirationTimestamp=1717185600000&signature=FOihKoGZM0-LxH5YKpt96egS0cE2V7TmyY5Ja1tcJHk&downloadName=_d7e73069-648f-4f52-95d2-b7ab4f175cfe.jpeg)
 
 
 ## SpotCode
-This application is an app clone of spotify made with Ruby (Back end) and ReactJS (Front end) to play musics, see artist's album, their music and made your day more musicable! Did on weekcode of OneBitCode.
+Esse é uma aplicação é um App, para a InnovateTech com a solução para visualização das informações dos alunos de forma intuitiva em uma aplicação móvel.
 
 
 ## Technology 
 
-Here are the technologies used in this project.
+As tecnologias usadas nesse projeto.
 
-* Ruby version  2.5.1
-* Rails version 6.0.2
-* SQLite3
+* Expo version 51.0.8
+* React Native version 0.74.1
+* Axios version 1.7.2
+* tanstack/react-query version 5.39.0
+* typescript version 5.3.3
 
 ## Services Used
 
 * Github
 
-## Ruby Gems
-
-* Devise
-* Bootstrap
-* JQuery-rails
-* Serviceworker Rails
-
-
 ## Getting started
 
-* Dependency
-  - Ruby  
-  - Rails
+*Para instalar e executar o projeto localmente, siga estas etapas:
 
-* To create and build your database accord of the project.
-  - rake db:create db:migrate
-  
-* To create the previous files to use on the project, on the database.
-  - rake db:seed
-  
-* To install the gems.
-  - bundle install
+* Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/contact2sale-app.git
+   cd contact2sale-app
+   
+* Instale as dependências
+   npm install
   
 * To run the project.
-  - rails s
+  - npx expo start
 
 ## How to use
 
@@ -105,17 +96,15 @@ Here are the technologies used in this project.
 
 ## Features
 
-The main features of the application are:
- - Listen Songs.
- - Favorite Albums.
- - Favorite Artists.
- - Favorite Musics.
- - See Album's perfil.
- - See Artist's perfil.
- - Search albums, musics and artists.
+As features do aplicativo são:
+ - Pesquisar, pelo primeiro nome e segundo nome.
+ - Filtro por genero
+ - Filtro de odenação por nome.
+ - Contador de resultados.
+ - Pagina de detalhes.
 
 
-## Links
+## Contato
   - Repository: https://github.com/Lucasdfg07/Spotify_clone
     - In case of sensitive bugs like security vulnerabilities, please contact
       Lucassiqueiraferandes07@gmail.com directly instead of using issue tracker. We value your effort
@@ -128,7 +117,7 @@ The main features of the application are:
 
   ## Authors
 
-  * **Lucas Siqueira Fernandes** 
+  * **Nathan Das Chagas Santos** 
 
   Please follow github and join us!
   Thanks to visiting me and good coding!
